@@ -1,0 +1,12 @@
+.logo {
+  align-items: center;
+  display: inline-flex;
+  gap: 8px;
+  position: relative;
+}
+
+.logo .nexcent {
+  height: 20.66px;
+  position: relative;
+  width: 111.49px;
+}
