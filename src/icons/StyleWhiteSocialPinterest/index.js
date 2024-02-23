@@ -1,1 +1,0 @@
-export { StyleWhiteSocialPinterest } from "./StyleWhiteSocialPinterest";

@@ -1,1 +1,0 @@
-export { StyleColorSocialLinkedin } from "./StyleColorSocialLinkedin";

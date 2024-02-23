@@ -1,1 +1,0 @@
-export { FooterBig } from "./FooterBig";

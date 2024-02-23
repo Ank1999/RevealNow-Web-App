@@ -1,1 +1,0 @@
-export { StyleColorSocialDribbble } from "./StyleColorSocialDribbble";
